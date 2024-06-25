@@ -9,7 +9,7 @@ A simple template for a Node.js server using Express, MongoDB, and Socket.IO.
 
 ##Folder Structure
 
-root
+```root
 ├── src
 │   ├── config
 │   ├── controllers
@@ -23,4 +23,4 @@ root
 │   └── index.js
 ├── .env
 ├── .gitignore
-├── package.json
+├── package.json```
